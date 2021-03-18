@@ -6,3 +6,8 @@
   text-align: center;
 }
 
+
+
+.footer a {
+     color: hsla(360, 100%, 100%, 1);
+}

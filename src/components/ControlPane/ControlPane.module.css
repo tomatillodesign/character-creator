@@ -10,6 +10,7 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  width: 52%; /* Set to 52% instead o f 50% b/c horizontal scrollbars may be hidden on desktop/Mac views */
 }
 
 .title {
